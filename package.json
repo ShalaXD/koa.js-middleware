@@ -2,7 +2,7 @@
   "name": "project2",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/yo-sala/project2_node.js.git"
   },
-  "author": "",
+  "author": "Shala",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yo-sala/project2_node.js/issues"
