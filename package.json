@@ -1,0 +1,29 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yo-sala/project2_node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yo-sala/project2_node.js/issues"
+  },
+  "homepage": "https://github.com/yo-sala/project2_node.js#readme",
+  "dependencies": {
+    "koa": "^2.1.0",
+    "koa-basic-auth": "^2.0.0",
+    "koa-body": "^1.6.0",
+    "koa-compress": "^2.0.0",
+    "koa-pug": "^3.0.0-2",
+    "koa-session": "^5.0.0",
+    "koa-static": "^3.0.0",
+    "pug": "^2.0.0-beta11"
+  }
+}
